@@ -1,4 +1,7 @@
 ### Witam Tutaj 👋👋
 
-![Statystki](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Moje Statystyki](https://github-readme-stats.vercel.app/api?username=WOJTEKQYTtv&show_icons=true)
+
+[![Top Języków](https://github-readme-stats.vercel.app/api/top-langs/?username=WOJTEKQYTtv&layout=gradient)
+
 
