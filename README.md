@@ -5,10 +5,10 @@
 ### 『🔧』Toolsy • VS 2019, VS CODE, Sublime Text, Eclipse, Intelka, Atom, Notepad++, WIN Notepad 
 ### 『🌍』Języki • C, C#, C++, HTML, PHP, CSS, JS, JAVA, PYTHON
 
-• Jutup ![KLIK](/https://www.youtube.com/channel/UCHYWYUXnNPUhgBdlaZ8j0hw) 
+### 『📢』 Jutup •  ![KLIK](/https://www.youtube.com/channel/UCHYWYUXnNPUhgBdlaZ8j0hw) 
+### 『🎭』 Strona •  ![KLIK](/https://www.youtube.com/channel/UCHYWYUXnNPUhgBdlaZ8j0hw) 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WOJTEKQYTtv&show_icons=true&theme=dark) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WOJTEKQYTtv&layout=compact&theme=dark)
 
 
