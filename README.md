@@ -6,7 +6,7 @@
 ### 『🔧』Toolsy • VS 2019, VS CODE, Sublime Text, Eclipse, Intelka, Atom, Notepad++, WIN Notepad 
 ### 『🌍』Języki • C, C#, C++, HTML, PHP, CSS, JS, JAVA, PYTHON
 
-### 『📢』 Jutup •  <a href="(https://www.youtube.com/channel/UCHYWYUXnNPUhgBdlaZ8j0hw"> KLIK </a>
+### 『📢』 Jutup •  <a href="https://www.youtube.com/channel/UCHYWYUXnNPUhgBdlaZ8j0hw"> KLIK </a>
 ### 『🎭』 Strona •  <a href="http://kq-wojte.ct8.pl"> KLIK </a>
 
 
